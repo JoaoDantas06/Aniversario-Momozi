@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(42, 146, 194);
+    background-color: #B3EBF2;
     font-family: 'Times New Roman';
 }
 
@@ -15,6 +15,10 @@ main {
     display: block;
     text-align: center;
     align-content: center;
+}
+
+a {
+    text-decoration: none;
 }
 
 .historia h2,
