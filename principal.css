@@ -1,14 +1,14 @@
 body {
     background-color: #B3EBF2;
     font-family: 'Times New Roman';
+    margin-bottom: 40px;
 }
 
 header {
     display: flex;
     justify-content: center;
-    text-align: center;
+    align-items: center;
     font-size: 25px;
-    padding: 0px;
 }
 
 main {
@@ -29,4 +29,20 @@ a {
 .historia p,
 .carta p {
     font-size: 25px;
+}
+
+img {
+    border-radius: 15px;
+}
+
+#foto1, #foto5, #foto7 {
+    transform: rotate(6deg);
+}
+
+#foto2, #foto4, #foto8 {
+    transform: rotate(-4deg);
+}
+
+#foto3, #foto6, #foto9 {
+    transform: rotate(2deg);
 }

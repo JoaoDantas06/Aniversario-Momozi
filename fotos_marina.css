@@ -56,3 +56,19 @@ button:hover {
     gap: 20px;
     padding: 20px;
 }
+
+img {
+    border-radius: 15px;
+}
+
+#foto2, #foto5 {
+    transform: rotate(5deg);
+}
+
+#foto1, #foto4 {
+    transform: rotate(-3deg);
+}
+
+#foto3 {
+    transform: rotate(2deg);
+}
