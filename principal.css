@@ -46,3 +46,7 @@ img {
 #foto3, #foto6, #foto9 {
     transform: rotate(2deg);
 }
+
+#foto10 {
+    padding: 2px;
+}
